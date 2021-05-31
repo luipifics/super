@@ -315,6 +315,8 @@ http://hdhd.tk:80/jeff1/jeff1/24489
 http://hdhd.tk:80/jeff1/jeff1/24490
 #EXTINF:-1,MX Espn U HD
 http://hdhd.tk:80/jeff1/jeff1/24491
+#EXTINF:-1,MX (BLIM) TUDN
+http://hdhd.tk:80/jeff1/jeff1/25378
 #EXTINF:-1,MX E! Entertainment HD
 http://hdhd.tk:80/jeff1/jeff1/24492
 #EXTINF:-1,MX Nat Geo Wild HD
